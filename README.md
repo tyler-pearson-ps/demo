@@ -6,6 +6,6 @@ This is an example repo for Udemy
 
 Additional info for a second commit
 
-## Things
+## Thingsz
 
 Things to remember or not rememberxy
